@@ -1,0 +1,42 @@
+Semt : Mamak
+Oda Sayısı : 3
+Alan : 75
+Kat No : 4  
+Kira : 7500
+Depozito : 2000
+----------------------------------
+Semt : Altındağ
+Oda Sayısı : 3
+Alan : 80
+Kat No : 1  
+Kira : 8000
+Depozito : 2500
+----------------------------------
+Semt : Kazan
+Oda Sayısı : 3
+Alan : 100
+Kat No : 2  
+Kira : 10000
+Depozito : 2500
+----------------------------------
+Semt : Yenimahalle
+Oda Sayısı : 3
+Alan : 90
+Kat No : 1  
+Kira : 15000
+Depozito : 5500
+----------------------------------
+Semt : Altındağ
+Oda Sayısı : 3
+Alan : 95
+Kat No : 4  
+Kira : 13000
+Depozito : 3200
+----------------------------------
+Semt : Etimesgut
+Oda Sayısı : 3
+Alan : 80
+Kat No : 5  
+Kira : 12500
+Depozito : 4000
+----------------------------------

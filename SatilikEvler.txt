@@ -1,0 +1,24 @@
+Semt : Beşiktaş
+Oda Sayısı : 4
+Alan : 120
+Kat No : 2  
+Fiyat : 3000000
+----------------------------------
+Semt : Bahçelievler
+Oda Sayısı : 4
+Alan : 230
+Kat No : 1  
+Fiyat : 5000000
+----------------------------------
+Semt : Altındağ
+Oda Sayısı : 3
+Alan : 100
+Kat No : 4  
+Fiyat : 2500000
+----------------------------------
+Semt : Batıkent
+Oda Sayısı : 4
+Alan : 120
+Kat No : 2  
+Fiyat : 2500000
+----------------------------------
